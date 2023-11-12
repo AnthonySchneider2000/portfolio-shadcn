@@ -11,5 +11,5 @@ To use this portfolio, run the following commands in your OS terminal
   - `npm install`
 - Run development server
   - `npm run dev`
-  - 
+    
  At this point, the development server is running. To view the site, go to `localhost:3000` in your internet browser
