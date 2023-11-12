@@ -1,22 +1,14 @@
-# next-template
+# portfolio-shadcn
+A portfolio template built using Next.js 14, Tailwind CSS, and Shadcn components
+IMPORTANT: This template contains no JavaScript functionality, and exists only to give others a design to iterate upon.
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
-
-## Usage
-
-```bash
-npx create-next-app -e https://github.com/shadcn/next-template
-```
-
-## Features
-
-- Next.js 13 App Directory
-- Radix UI Primitives
-- Tailwind CSS
-- Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
-- Tailwind CSS class sorting, merging and linting.
-
-## License
-
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+## Installation
+To use this portfolio, run the following commands in your OS terminal
+- Clone the repository
+  - `git clone https://github.com/AnthonySchneider2000/portfolio-shadcn`
+- Install dependencies
+  - `cd portfolio-shadcn`
+  - `npm install`
+- Run development server
+  - `npm run dev`
+ At this point, the development server is running. To view the site, go to `localhost:3000` in your internet browser
